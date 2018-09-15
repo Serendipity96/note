@@ -1,0 +1,27 @@
+textarea{
+    border: 1px solid #F56C6C;
+    border-radius: 5px;
+}
+.btn-container{
+    margin-top: 10px;
+
+}
+.button{
+    background-color: #F56C6C;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 12px;
+    line-height: 50px;
+    padding: 8px 12px;
+    cursor: pointer;
+    color: #fff;
+}
+
+.inputStyle{
+    border:1px solid #F56C6C;
+    border-radius: 5px;
+    width: 65px;
+    height: 27px;
+    display: none;
+    padding-left: 5px;
+}
